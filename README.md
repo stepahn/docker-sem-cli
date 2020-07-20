@@ -1,4 +1,4 @@
-#docker sem-cli
+# docker sem-cli
 
 https://docs.semaphoreci.com/reference/sem-command-line-tool/
 
